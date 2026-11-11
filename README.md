@@ -16,17 +16,18 @@ A fictional store selling apocalypse food-prep products, with its sales, product
 ## Dashboard: https://github.com/mansur58/Power-BI-project/blob/main/Screenshot%202026-11-10%20214226_edited.png
 
 ## Process
-1.Import. Four sheets were pulled in from Excel with Power Query. Headers were promoted and data types set (integers, text, dates).
-2.1Model. The tables link through Product ID, Customer ID and Order ID. Sales connects to products and customers, and the buyer table connects to customers.
-3.Visualize. Each question above got a visual:
-  -Units sold by customer, split by product (column chart).
-  -Units sold over time (line chart).
-  -Units sold versus production cost by product (column chart).
-  -Price versus production cost by product (scatter).
-  -Units sold by product (bar chart).
-  -Purchases by state (donut chart).
-  -Four KPI cards on Total Purchased: sum, count and minimum.
-  -A customer and units-sold table.
+
+1. **Import:** Four sheets were pulled in from Excel with Power Query. Headers were promoted and data types set (integers, text, dates).
+2. **Model:** The tables link through Product ID, Customer ID and Order ID. Sales connects to products and customers, and the buyer table connects to customers.
+3. **Visualize:** Each question above got a visual:
+   - Units sold by customer, split by product (column chart)
+   - Units sold over time (line chart)
+   - Units sold versus production cost by product (column chart)
+   - Price versus production cost by product (scatter chart)
+   - Units sold by product (bar chart)
+   - Purchases by state (donut chart)
+   - Four KPI cards on Total Purchased: sum, count and minimum
+   - A customer and units-sold table
 
 ## Insights
 
