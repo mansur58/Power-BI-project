@@ -12,7 +12,7 @@ A fictional store selling apocalypse food-prep products, with its sales, product
 - Do high-selling products also carry high production costs?
 - Which states generate the most purchases?
 - What are the overall purchase totals: the total, the count of purchases, and the smallest purchase?
-- 
+
 ## Dashboard: https://github.com/mansur58/Power-BI-project/blob/main/Screenshot%202026-11-10%20214226_edited.png
 
 ## Process
