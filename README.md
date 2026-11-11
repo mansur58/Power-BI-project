@@ -4,14 +4,15 @@ A fictional store selling apocalypse food-prep products, with its sales, product
 
 
 ## Questions
--Which products sell the most units?
--Which customers buy the most, and which products do they buy?
--How do sales change over time (by month and day)?
--How does each product’s production cost compare with its price (profitability)?
--Do high-selling products also carry high production costs?
--Which states generate the most purchases?
--What are the overall purchase totals: the total, the count of purchases, and the smallest purchase?
 
+- Which products sell the most units?
+- Which customers buy the most, and which products do they buy?
+- How do sales change over time (by month and day)?
+- How does each product's production cost compare with its price (profitability)?
+- Do high-selling products also carry high production costs?
+- Which states generate the most purchases?
+- What are the overall purchase totals: the total, the count of purchases, and the smallest purchase?
+- 
 ## Dashboard: https://github.com/mansur58/Power-BI-project/blob/main/Screenshot%202026-11-10%20214226_edited.png
 
 ## Process
